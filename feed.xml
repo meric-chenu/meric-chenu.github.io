@@ -4,7 +4,7 @@
   <id>https://meric-chenu.github.io/</id>
   <title>Chirpy</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-09-26T22:08:17+08:00</updated>
+  <updated>2025-09-26T22:14:05+08:00</updated>
   <author>
     <name>your_full_name</name>
     <uri>https://meric-chenu.github.io/</uri>
@@ -17,6 +17,32 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Customize the Favicon</title>
+    <link href="https://meric-chenu.github.io/posts/test/" rel="alternate" type="text/html" title="Customize the Favicon" />
+    <published>2019-08-11T00:34:00+08:00</published>
+  
+    <updated>2019-08-11T00:34:00+08:00</updated>
+  
+    <id>https://meric-chenu.github.io/posts/test/</id>
+    <content type="text/html" src="https://meric-chenu.github.io/posts/test/" />
+    <author>
+      <name>cotes</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Tutorial" />
+    
+  
+
+  <summary>Test</summary>
+
+  </entry>
 
   
   <entry>
